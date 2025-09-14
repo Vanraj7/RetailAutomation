@@ -7,7 +7,7 @@
 This repository contains my submission for the QA assignment, which includes test case design, bug reporting, test data creation, exploratory testing strategies, and an automated test script.
 
 ## Contents
-- `/documentation/QA_Assignment_Submission.docx`: Main document containing Parts 1-4 and the code for Part 5.
+- `/documentation/QA_Assignment.docx`: Main document containing Parts 1-4 and the code for Part 5.
 - `/automation/test_shopping.py`: Selenium WebDriver script that automates login, adding a product to cart, and verifying the cart count.
 
 ## Application Under Test
