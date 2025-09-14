@@ -25,7 +25,7 @@ This repository contains my submission for the QA assignment, which includes tes
 3. Navigate to the automation directory and run the script:
 
 
-```bash
+   ```bash
    cd automation
    python test_shopping.py
 
