@@ -18,11 +18,14 @@ This repository contains my submission for the QA assignment, which includes tes
 
 ## How to Run the Automation Script
 1. Ensure you have Python installed.
-2. Navigate to the automation directory and run the script:
-
-bash
-cd automation
-python test_shopping.py
 2. Install the required libraries:
    ```bash
    pip install selenium webdriver-manager
+
+3. Navigate to the automation directory and run the script:
+
+
+```bash
+   cd automation
+   python test_shopping.py
+
