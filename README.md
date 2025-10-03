@@ -1,10 +1,5 @@
-# QA Assignment Submission
-
-**Name:** Vanraj Jhala
-
-
 ## Overview
-This repository contains my submission for the QA assignment, which includes test case design, bug reporting, test data creation, exploratory testing strategies, and an automated test script.
+This repository contains my files, which includes test case design, bug reporting, test data creation, exploratory testing strategies, and an automated test script.
 
 ## Contents
 - `/documentation/QA_Assignment.docx`: Main document containing Parts 1-4 and the code for Part 5.
